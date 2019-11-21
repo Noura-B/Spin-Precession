@@ -1,2 +1,2 @@
 # Spin-Precession
-An Undergraduate volunteering Project with Professor Rajibul at IQC, the university of Waterloo, On graphical representation of quantum mechanical probibilitys of state in n direction in addition to visualization of quantum states in a block sphere, with the hamiltonian in the general direction under the influence of magnetic field
+A Jupyter notebook that given a Hamiltonian for a magnetic field in a given direction, time-evolves a single-spin quantum state and displays its probabilities and the corresponding Bloch sphere. Done as a part of a project volunteering with Prof. Rajibul Islam at IQC/UWaterloo.
